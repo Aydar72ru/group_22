@@ -1,0 +1,11 @@
+Для создание башскрипта нужно создать файл "name.sh" открываем через команду vim name.sh
+и пишем команды
+#!/bin/bash
+1) cd /curses
+2) mkdir A1 A2 A3
+3) cd A1
+4) touch B1.txt B2.txt B3.txt D1.json D2.json
+5) mkdir C1 C2 C3
+6) ls -la 
+7) mv /d/QA_curses/A1/B1.txt /d/QA_curses/A2
+сохраняем нажимаем ESC пишем команду :wq!. Запускаем скрипт.
