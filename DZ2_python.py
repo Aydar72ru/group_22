@@ -241,4 +241,4 @@ elif (a > x) and (a == y):
 elif (a < x) and (a == y):
     print(print(f"{a}<{x}")) and print(print(f"{a}=={y}"))
 else:
-    print(print(f"{a}=={x}")) and print(print(f"{a}=={y}"
+    print(print(f"{a}=={x}")) and print(print(f"{a}=={y}"))
